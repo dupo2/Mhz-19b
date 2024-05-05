@@ -1,0 +1,2 @@
+CO2 = String(readCO2UART());
+dataString += CO2;
