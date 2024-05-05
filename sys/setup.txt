@@ -1,1 +1,0 @@
-Serial1.begin(9600);
